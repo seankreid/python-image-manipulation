@@ -11,12 +11,12 @@ The app can be downloaded an ran on its own, no other files needed besides the i
 To run this application. You will need python3, the tkinter module, and pillow module.
 
 ```
-pip3 install pillow
-```
-
-```
 pip3 install tkinter
 ```
+```
+pip3 install pillow
+```
+* Pillow can sometimes be complicated to install. See [this link](https://stackoverflow.com/questions/20060096/installing-pil-with-pip)for troubleshooting.
 
 ### Running
 ```
