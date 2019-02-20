@@ -24,9 +24,9 @@ python3 image.py
 ```
 ### Using
 
-- Has a menu with three options: "Load image", "Rotate 90 Clockwise", "Rotate 90 Counter-clockwise"
-- **Load Image:** Menu option allows user to select an image from their system, once completed the file path will appear in the box
-- **Rotate 90 Degrees Clockwise:** Menu option loads the image that is set in the text field into Pillow, it then rotates the image 90 degrees clockwise and then saves the image
+- Has a menu with three options: "Load image", "Rotate 90 Clockwise", "Rotate 90 Counter-clockwise".
+- **Load Image:** Menu option allows user to select an image from their system, once completed the file path will appear in the box.
+- **Rotate 90 Degrees Clockwise:** Menu option loads the image that is set in the text field into Pillow, it then rotates the image 90 degrees clockwise and then saves the image.
 - **Rotate 90 Degrees Counter-Clockwise:** Menu option loads the image that is set in the text field into Pillow, it then rotates the image 90 degrees counter-clockwise and then save the image.
 - **Close:** Close the program.
 
