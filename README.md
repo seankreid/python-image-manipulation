@@ -36,6 +36,3 @@ python3 image.py
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - Used for GUI
 * [Pillow](https://pillow.readthedocs.io/en/stable/) - Used for image manipulation
 
-### Authors
-
-* **Sean Reid** - [Sean Reid](https://github.com/seankreid)
